@@ -219,7 +219,7 @@ export default function Nav2() {
                     <i className="icon-1 unicon-play-filled-alt" />
                   </button>
                   <a
-                    data-caption="Easy project managment of any complexity."
+                    data-caption="cloudseedz"
                     data-attrs="width: 640; height: 480;"
                     className="position-cover"
                     role="button"

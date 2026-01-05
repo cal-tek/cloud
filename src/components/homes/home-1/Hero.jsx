@@ -136,25 +136,7 @@ export default function Hero() {
               height="100"
             />
           </div>
-          <div
-            className="position-absolute translate-middle-y -rotate-12 me-n3"
-            style={{ top: "35% ", right: "0px" }}
-          >
-            <img
-              className="w-56px xl:w-64px d-block dark:d-none"
-              alt="icon-chat"
-              src="/assets/images/template/icon-chat.svg"
-              width="100"
-              height="100"
-            />
-            <img
-              className="w-56px xl:w-64px d-none dark:d-block"
-              alt="icon-chat-dark"
-              src="/assets/images/template/icon-chat-dark.svg"
-              width="100"
-              height="100"
-            />
-          </div>
+
         </div>
         <div className="section-outer panel pb-6 sm:pb-9 pt-9 sm:pt-10">
           <div className="container max-w-xl">
@@ -166,44 +148,11 @@ export default function Hero() {
                     data-anime="targets: >*; translateY: [24, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 200});"
                   >
                     <h1 className="h2 sm:h1 lg:display-6 xl:display-4 mt-4 sm:mt-0">
-                      Easy project managment{" "}
-                      <br className="d-none sm:d-block" />
-                      of any complexity
+                      cloudseedz
                     </h1>
-                    <Link
-                      to={`/page-pricing`}
-                      className="btn btn-md lg:btn-lg btn-primary text-white min-w-150px sm:mt-1 lg:mt-2"
-                    >
-                      Try it out
-                    </Link>
-                    <div className="hstack justify-center gap-2 mt-1 sm:mt-2">
-                      <div className="hstack justify-center gap-0">
-                        <img
-                          className="w-40px rounded-circle ltr:ms-n2 rtl:me-n2 border border-2 border-gray-900"
-                          alt="Avatar image"
-                          src="/assets/images/avatars/03.png"
-                          width="150"
-                          height="150"
-                        />
-                        <img
-                          className="w-40px rounded-circle ltr:ms-n2 rtl:me-n2 border border-2 border-gray-900"
-                          alt="Avatar image"
-                          src="/assets/images/avatars/02.png"
-                          width="150"
-                          height="150"
-                        />
-                        <img
-                          className="w-40px rounded-circle ltr:ms-n2 rtl:me-n2 border border-2 border-gray-900"
-                          alt="Avatar image"
-                          src="/assets/images/avatars/08.png"
-                          width="150"
-                          height="150"
-                        />
-                      </div>
-                      <span className="fs-7 sm:fs-6 fw-medium opacity-60">
-                        4.6k Hardworking Members
-                      </span>
-                    </div>
+                    <h2>
+                      $10 aws code vids - see new ideas
+                    </h2>
                   </div>
                 </div>
                 <div
@@ -223,8 +172,8 @@ export default function Hero() {
                   <a
                     className="cstack text-none position-absolute top-50 start-50 translate-middle bg-white text-primary w-64px h-64px sm:w-80px sm:h-80px rounded-circle shadow-md"
                     onClick={() => setOpen(true)}
-                    data-caption="Easy project managment of any complexity."
-                    data-attrs="width: 640; height: 480;"
+                    data-caption="cloudseedz aws code vids"
+                    data-attrs="width: 640; height: 240;"
                   >
                     <i className="icon icon-2 sm:icon-3 unicon-play-filled-alt" />
                   </a>

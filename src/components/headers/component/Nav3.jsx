@@ -208,7 +208,7 @@ export default function Nav3() {
                     <i className="icon-1 unicon-play-filled-alt" />
                   </button>
                   <a
-                    data-caption="Easy project managment of any complexity."
+                    data-caption="cloudseedz aws code vids "
                     data-attrs="width: 640; height: 480;"
                     className="position-cover"
                     role="button"
