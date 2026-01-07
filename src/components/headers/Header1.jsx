@@ -31,17 +31,17 @@ export default function Header1() {
                 >
                   <img
                     className="dark:d-none"
-                    alt="Lexend"
+                    alt="cloudseedz"
                     src="/assets/images/common/logo-light.svg"
-                    width="117"
-                    height="40"
+                    width="60"
+                    height="60"
                   />
                   <img
                     className="d-none dark:d-block"
-                    alt="Lexend"
+                    alt="cloudseedz"
                     src="/assets/images/common/logo-dark.svg"
-                    width="117"
-                    height="40"
+                    width="60"
+                    height="60"
                   />
                 </Link>
               </div>
@@ -69,7 +69,7 @@ export default function Header1() {
                 className="btn btn-sm btn-primary text-white text-none d-none lg:d-inline-flex"
                 to={`/page-pricing`}
               >
-                Start free trial
+                Register as a user
               </Link>
               <LanguageSelect2 />
               <a

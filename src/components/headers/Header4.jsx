@@ -101,7 +101,7 @@ export default function Header4() {
                     />
                     <img
                       className="d-none dark:d-block"
-                      alt="Lexend"
+                      alt="cloudseedz"
                       src="/assets/images/common/logo-dark.svg"
                       width="117"
                       height="40"

@@ -2,9 +2,9 @@ import Home1 from "./homes/home-1";
 import MetaComponent from "@/components/common/MetaComponent";
 const metadata = {
   title:
-    "Home 1 || Lexend - Full-featured, professional-looking software, saas and startup reactjs template.",
+    "Home 1 || Cloudseedz - Full-featured, professional-looking software, saas and startup reactjs template.",
   description:
-    "Lexend - Full-featured, professional-looking software, saas and startup reactjs template.",
+    "Cloudseedz - Full-featured, professional-looking software, saas and startup reactjs template.",
 };
 export default function HomePage1() {
   return (
