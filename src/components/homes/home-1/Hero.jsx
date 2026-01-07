@@ -30,7 +30,7 @@ export default function Hero() {
                     data-anime="targets: >*; translateY: [24, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 200});"
                   >
                     <h2>
-                      Scroll down for AWS training on specific topics.<br></br> Free previews.<br></br>$10 PayPal fee, fixed price, per course. 
+                      Scroll down for AWS training on specific topics.<br></br> Full demos on all major aspects. Free previews.<br></br>$10 PayPal fee, fixed price, per course. 
                     </h2>
                   </div>
                 </div>
