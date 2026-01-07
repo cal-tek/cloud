@@ -20,17 +20,19 @@ export default function Hero() {
 
 
         </div>
-        <div className="section-outer panel pb-6 sm:pb-9 pt-9 sm:pt-10">
+        <div className="section-outer panel pb-4 sm:pb-5 pt-9 sm:pt-9">
           <div className="container max-w-xl">
             <div className="section-inner panel">
-              <div className="vstack gap-6 sm:gap-8 xl:gap-9">
+              <div className="vstack gap-6 sm:gap-1 xl:gap-1">
                 <div className="panel text-center max-w-850px mx-auto uc-dark">
                   <div
                     className="vstack items-center gap-2 text-white"
                     data-anime="targets: >*; translateY: [24, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 200});"
                   >
                     <h2>
-                      On cloudseedz you get AWS training on specific topics. One-hour walk throughs. $10 fixed price per course. 
+                      Training on specific AWS python topics. 
+                      <br></br>
+                      Lessons in under one hour.    <br></br>$10 fixed price per course. 
                     </h2>
                   </div>
                 </div>
@@ -39,13 +41,11 @@ export default function Hero() {
                   data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: 200;"
                   data-uc-lightbox="video-autoplay: true;"
                 >
-                  <figure className="featured-image m-0 rounded ratio ratio-16x9 lg:rounded-2 overflow-hidden">
+                  <figure className="featured-image m-0 rounded ratio ratio-16x9 lg:rounded-2">
                     <img
                       className="media-cover image"
                       alt="cloudseedz"
                       src="/assets/images/template/home-01-hero-cover.webp"
-                      width="512"
-                      height="288"
                     />
                   </figure>
                   <a
