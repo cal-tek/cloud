@@ -43,7 +43,7 @@ export default function Hero() {
                     <img
                       className="media-cover image"
                       alt="cloudseedz"
-                      src="/assets/images/template/home-01-hero-cover.webp"
+                      src="/assets/images/template/home-01-hero-cover.png"
                       width="512"
                       height="288"
                     />
