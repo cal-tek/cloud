@@ -15,7 +15,7 @@ export default function Hero() {
         <div className="position-absolute top-0 start-0 end-0 h-400px xl:h-screen bg-gray-900" />
         <div
           className="position-absolute top-0 start-0 end-0 min-h-screen overflow-hidden d-none lg:d-block uc-dark"
-          data-anime="onview: -100; targets: img; scale: [0.8, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 250; delay: anime.stagger(5, {start: 500});"
+          data-anime="onview: -100; targets: img; scale: [0.8, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 250; delay: anime.stagger(50, {start: 500});"
         >
 
 
@@ -43,7 +43,7 @@ export default function Hero() {
                     <img
                       className="media-cover image"
                       alt="cloudseedz"
-                      src="/assets/images/template/home-01-hero-cover.png"
+                      src="/assets/images/template/home-01-hero-cover.webp"
                       width="512"
                       height="288"
                     />
